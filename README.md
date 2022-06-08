@@ -1,2 +1,2 @@
 
-https://github.com/Krestyaninov/rsschool-cv/
+https://krestyaninov.github.io/rsschool-cv/
